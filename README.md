@@ -7,4 +7,7 @@
 * Abraham Josué Lázaro Martínez
 * abrahamlazaro@comunidad.unam.mx
 
+* Jonathan Yair Vazquez Uriostegui
+* jonathan_vazquez@comunidad.unam.mx
+
 
