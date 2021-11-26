@@ -11,3 +11,5 @@
 * jonathan_vazquez@comunidad.unam.mx
 
 
+* Daniela Ruiz Jiménez 
+* danrj1415@comunidad.unam.mx
