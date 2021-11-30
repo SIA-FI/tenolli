@@ -13,3 +13,11 @@
 
 * Daniela Ruiz Jiménez 
 * danrj1415@comunidad.unam.mx
+
+
+* María Karina Centeno Hernández
+* mkch24@comunidad.com.mx
+
+
+* Mauricio Iván Díaz Segura
+* keigro@comunidad.unam.mx
